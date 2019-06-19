@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceAuthentication</string>
+    <string name="buttonvalue">Take a Photo</string>
+
+</resources>
